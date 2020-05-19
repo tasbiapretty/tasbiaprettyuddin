@@ -10,38 +10,7 @@ body{
         text-transform: none;
     }
     
-    body{
-        width: 100px;
-        height: 100px;
-        background-color:white;
-        position: relative;
-        animation-name: example;
-        animation-duration: 4s;
-        animation-iteration-count: 3;
-    
-  
-        @keyframes example 
-        0%   {background-color: pink; left:0px; top:0px
-        25%  {background-color:aquamarine; left:200px; top:0px;
-        50%  {background-color:lightsalmon; left:200px; top:200px;
-        75%  {background-color:lightsteelblue; left:0px; top:200px;
-        100% {background-color: lightslategrey; left:0px; top:0px;
-  
-        }
-
-    body{
-        background-color:white;
-        animation-name: example;
-        animation-duration: 4s;
-  
-  
-        @keyframes example 
-        0%   {background-color: palevioletred;
-        25%  {background-color: powderblue;
-        50%  {background-color: lightgreen;
-        100% {background-color: lightsteelblue;
-    }
- 
+   
 
 
     head{
