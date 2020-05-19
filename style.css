@@ -16,6 +16,7 @@ body{
     position: relative;
     animation-name: example;
     animation-duration: 4s;
+    animation-iteration-count: 3;
     }
   
   @keyframes example {
