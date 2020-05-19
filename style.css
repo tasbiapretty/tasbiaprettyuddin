@@ -40,13 +40,13 @@ body{
         25%  {background-color: powderblue;
         50%  {background-color: lightgreen;
         100% {background-color: lightsteelblue;
-        }
+    }
  
 
 
-head{
+    head{
     background-color: white;
-}
+    }   
 h1{
         font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
         font-size: 34px;
@@ -58,6 +58,7 @@ h1{
         text-transform: uppercase;
 
     }
+
     h2{
         font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
         font-size: 28px;
