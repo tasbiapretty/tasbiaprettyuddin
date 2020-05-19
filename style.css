@@ -34,3 +34,16 @@ h1{
         font-variant: normal;
         text-transform: uppercase;
     }
+
+    body {
+        background-color:white;
+        animation-name: example;
+        animation-duration: 4s;
+      }
+      
+      @keyframes example {
+        0%   {background-color: palevioletred;}
+        25%  {background-color: powderblue;}
+        50%  {background-color: lightgreen;}
+        100% {background-color: lightsteelblue;}
+      }
